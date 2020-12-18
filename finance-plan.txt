@@ -4,5 +4,8 @@ RENCANA KEUANGAN
   * Reksadana pasar uang
   * Bibit
 - Membuat rencana keuangan untuk 5 tahun kedepan untuk motor
+  * N-max
 - Membuat rencana keuangan untuk 10 tahun kedepan untuk bangun rumah
+  * Didaerah perdesaan atau ditengah kota
 - Membuat rencana keuangan untuk dana pensiun
+  * Pensiun kurang lebih diumur 60 tahun
