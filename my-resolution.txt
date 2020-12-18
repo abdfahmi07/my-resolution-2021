@@ -4,3 +4,5 @@ Resolusi di tahun 2021
 - Bisa membangun website dengan baik dan benar
 - Menguasai vue js dan nuxt js 
 - Ahli dalam bidang front end dev
+- Bisa memperluas pertemanan
+- Belajar bersama expert
