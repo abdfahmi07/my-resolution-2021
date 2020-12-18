@@ -1,8 +1,8 @@
 Resolusi di tahun 2021
 - Belajar mengenai investasi
-- SALARY RAISE
 - Bisa membangun website dengan baik dan benar
 - Menguasai vue js dan nuxt js 
 - Ahli dalam bidang front end dev
 - Bisa memperluas pertemanan
 - Belajar bersama expert
+- Membangun website umroh.com hingga menjadi populer
