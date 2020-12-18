@@ -1,5 +1,7 @@
 RENCANA KEUANGAN 
 
 - Investasi diumur 20+
+  * Reksadana pasar uang
+  * Bibit
 - Membuat rencana keuangan untuk 5 tahun kedepan untuk motor
 - Membuat rencana keuangan untuk 10 tahun kedepan untuk bangun rumah
