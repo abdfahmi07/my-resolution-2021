@@ -4,5 +4,7 @@ RENCANA KEUANGAN
   * Reksadana pasar uang
   * Bibit
 - Membuat rencana keuangan untuk 5 tahun kedepan untuk motor
+  * Vario
 - Membuat rencana keuangan untuk 10 tahun kedepan untuk bangun rumah
 - Membuat rencana keuangan untuk dana pensiun
+  * Pensiun di umur 70 tahun
