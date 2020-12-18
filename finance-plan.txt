@@ -5,3 +5,4 @@ RENCANA KEUANGAN
   * Bibit
 - Membuat rencana keuangan untuk 5 tahun kedepan untuk motor
 - Membuat rencana keuangan untuk 10 tahun kedepan untuk bangun rumah
+- Membuat rencana keuangan untuk dana pensiun
